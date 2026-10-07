@@ -58,22 +58,6 @@ This table indicates firmware versions for which the *current version* of this r
 
 ---
 
-## Deployment & Hosting
-
-### Option 1: Access via Remote Host
-Open the PS4 web browser and navigate directly http://webkitty.arabpixel.net/
-> In case the above link can not be resolved or similarly, you may want to attempt to use the following mirror of WebKitty: http://webkitty.free.nf
-
-### Option 2: Local Hosting (PC / PS4 Server)
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ArabPixel/WebKitty.git
-   ```
-2. Serve the directory using any standard Web server (e.g., Nginx, Apache, Python HTTP server, or **[PS4-Websrv](https://github.com/ArabPixel/ps4-websrv)**).
-3. Open the browser on your PS4, that's it!
-
----
-
 ## TODO List
 - [ ] Support lower firmwares by adding other exploits
 
