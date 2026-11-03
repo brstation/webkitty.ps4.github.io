@@ -1,6 +1,6 @@
 CACHE MANIFEST
 # v4
-# Generated on 2026-11-01
+# Generated on 2026-11-03
 
 CACHE:
 ../../../
@@ -70,7 +70,7 @@ CACHE:
 ../../../includes/payloads/Bins/fan-thresholds/ps4-fan-threshold85.bin
 ../../../includes/payloads/HEN/goldhen_v2.4b18.10.bin
 ../../../includes/payloads/HEN/goldhen_v2.4b18.12.bin
-../../../includes/payloads/HEN/goldhen_v2.4b18.6.bin
+../../../includes/payloads/HEN/goldhen_v2.4b18.13.bin
 ../../../includes/payloads/HEN/goldhen_v2.4b18.7.bin
 ../../../includes/payloads/HEN/goldhen_v2.4b18.8.bin
 ../../../includes/payloads/HEN/goldhen_v2.4b18.9.bin
@@ -91,6 +91,14 @@ CACHE:
 ../../../src/slopkit/ps4_offsets.js
 ../../../src/slopkit/rpc_worker.js
 ../../../src/slopkit/chain_poops.js
+../../../src/relapse/core.js
+../../../src/relapse/core.js?v=10
+../../../src/relapse/int64.js
+../../../src/relapse/mem.js
+../../../src/relapse/ps4_offsets.js
+../../../src/relapse/rpc_worker.js
+../../../src/relapse/jb.js
+../../../src/relapse/jb.js?v=10
 ../../../src/kpatches/1300.bin
 
 NETWORK:
